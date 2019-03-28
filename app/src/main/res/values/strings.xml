@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travel Journal</string>
+    <string name="TripName">Trip Name</string>
+    <string name="Destination">Destination</string>
+    <string name="TripType">Trip Type</string>
+    <string name="radioB1">City break</string>
+    <string name="radioB2">See side</string>
+    <string name="radioB3">Mountains</string>
+    <string name="price">Price(eur)</string>
+    <string name="startDate">Start Date</string>
+    <string name="enddate">End Date</string>
+    <string name="endDate">End Date</string>
+    <string name="rating">Rating</string>
+    <string name="save">Save</string>
+    <string name="date">DD/MM/YYYY</string>
+</resources>
